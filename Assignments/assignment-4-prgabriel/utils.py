@@ -11,5 +11,7 @@ def create_2d_gaussian(size=9, std=1.5):
 
 """ normalize the image between 0 and 1 """
 def normalize_img(img):
+    if img.max() == img.min():
+        return np.zeros_like(img)
     normalized = (img - img.min())/(img.max() - img.min())    
     return normalized
