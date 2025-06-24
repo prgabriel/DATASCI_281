@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 """ transform the image using the homography H 
-    the size of the final image is decide using
+    the size of the final image is decided using
     the bounds -> (left, top, right, bottom)
     The left, top of the input image is translated 
     to (0,0).
