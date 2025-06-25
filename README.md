@@ -50,6 +50,12 @@ Assignments/
         __pycache__/
         images/
         objectives/
+    assignment-5-prgabriel/
+        assignment5.ipynb
+        utils.py
+        align_images/
+        deliverables/
+        images/
 Exercises/
     Exercise_03_Convolution.ipynb
 Lectures/
