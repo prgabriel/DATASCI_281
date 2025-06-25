@@ -81,6 +81,12 @@ Lectures/
 
 ## Changelog
 
+### [v5.0.0]
+- Added `assignment-5-prgabriel` with `assignment5.ipynb` and related functions for image stitching and rectification.
+- Integrated new code for homography computation, image bounds calculation, warping, and stitching.
+- Updated repository structure to include Assignment 5 and its deliverables.
+- Merged pull request #4 from
+
 ### [v4.0.1]
 - Added `assignment-4-prgabriel` with `assignment4.ipynb`, `utils.py`, and supporting folders.
 - Updated folder structure for clarity and modularity.
